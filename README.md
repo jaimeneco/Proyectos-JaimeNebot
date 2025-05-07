@@ -9,3 +9,14 @@ PROYECTO ONPIK: web de alquiler de material deportivo estacional (deportes de ve
 - Tecnologías utilizadas: ReactJS, CSS, JAVASCRIPT, EXPRESSJS y MONGODB.
 - LINK FRONT: https://frontend-proyecto-fs-jaime-nebot.vercel.app/
 - LINK BACK: https://backend-proyecto-fs-jaime-nebot.vercel.app/
+ 
+### Logotipo y variantes:
+![Logotipos](logos.png)
+
+### Selección de colores:
+![Colores](color.png)
+
+### Tipografías:
+![Oswald](oswald-tipo.png)
+![Lucida](lucida-tipo.png)
+
